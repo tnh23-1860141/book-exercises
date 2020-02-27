@@ -78,3 +78,4 @@ growth_panel <- tabPanel("Growth Chart",
 # - Your `intro_panel`
 # - Your `growth_panel`
 ui <- navbarPage(title = "Income Inequality", intro_panel, growth_panel)
+
